@@ -1,250 +1,259 @@
 # Java-Programming-1-MOOC-University-of-Helsinki
-Course Contents
-Part 1:
-Getting started with programming
-Quiz
-Programming exercise: Sandbox
-Quiz
-Printing
-Programming exercise: Ada Lovelace
-Programming exercise: Once Upon a Time
-Programming exercise: Dinosaur
-Reading input
-Programming exercise: Message
-Programming exercise: Hi Ada Lovelace!
-Programming exercise: Message Three Times
-Programming exercise: Greeting
-Programming exercise: Conversation
-Programming exercise: Story
-Variables
-Quiz
-Programming exercise: Various Variables
-Programming exercise: Integer Input
-Programming exercise: Double Input
-Programming exercise: Boolean Input
-Programming exercise: Different Types of Input
-Calculating with numbers
-Programming exercise: Seconds in a day
-Quiz
-Quiz
-Programming exercise: Sum of two numbers
-Programming exercise: Sum of three numbers
-Programming exercise: Addition formula
-Programming exercise: Multiplication formula
-Programming exercise: Average of two numbers
-Programming exercise: Average of three numbers
-Quiz
-Programming exercise: Simple calculator
-Quiz
-Conditional statements and conditional operation
-Programming exercise: Speeding Ticket
-Programming exercise: Check Your Indentation
-Programming exercise: Orwell
-Programming exercise: Ancient
-Programming exercise: Positivity
-Programming exercise: Adulthood
-Programming exercise: Larger Than or Equal To
-Programming exercise: Grades and Points
-Programming exercise: Odd or even
-Programming exercise: Password
-Programming exercise: Same
-Programming exercise: Checking the age
-Programming exercise: Leap year
-Programming exercise: Gift tax
-Programming in our society
-Quiz
-Part 2:
-Recurring problems and patterns to solve them
-Quiz
-Programming exercise: Squared
-Programming exercise: Square root of sum
-Quiz
-Programming exercise: Absolute Value
-Programming exercise: Comparing Numbers
-Repeating functionality
-Programming exercise: Carry on?
-Programming exercise: Are we there yet?
-Quiz
-Programming exercise: Only positives
-Programming exercise: Number of Numbers
-Programming exercise: Number of negative numbers
-Programming exercise: Sum of Numbers
-Programming exercise: Number and sum of numbers
-Programming exercise: Average of numbers
-Programming exercise: Average of positive numbers
-More loops
-Quiz
-Programming exercise: Counting
-Programming exercise: Counting to hundred
-Programming exercise: From where to where? (2 parts)
-Programming exercise: Sum of a sequence
-Programming exercise: Sum of a sequence - the sequel
-Programming exercise: Factorial
-Programming exercise: Repeating, breaking and remembering (5 parts)
-Methods and dividing the program into smaller parts
-Programming exercise: In a hole in the ground
-Programming exercise: Reprint
-Quiz
-Programming exercise: From one to parameter
-Programming exercise: From parameter to one
-Programming exercise: Division
-Programming exercise: Divisible by three
-Quiz
-Programming exercise: Number uno
-Programming exercise: Word
-Quiz
-Quiz
-Programming exercise: Summation
-Programming exercise: Smallest
-Programming exercise: Greatest
-Programming exercise: Averaging
-Programming exercise: Star sign (4 parts)
-Programming exercise: Advanced astrology (3 parts)
-End questionnaire
-Quiz
-Part 3:
-Discovering errors
-Quiz
-Quiz
-Lists
-Programming exercise: Third element
-Programming exercise: Second plus third
-Programming exercise: IndexOutOfBoundsException
-Quiz
-Programming exercise: List size
-Programming exercise: Last in list
-Programming exercise: First and last
-Programming exercise: Remember these numbers
-Programming exercise: Only these numbers
-Programming exercise: Greatest in list
-Programming exercise: Index of
-Programming exercise: Index of smallest
-Programming exercise: Sum of a list
-Programming exercise: Average of a list
-Quiz
-Quiz
-Programming exercise: On the list?
-Programming exercise: Print in range
-Programming exercise: Sum
-Programming exercise: Remove last
-Arrays
-Quiz
-Programming exercise: Swap
-Programming exercise: Index was not found
-Programming exercise: Sum of array
-Programming exercise: Print neatly
-Programming exercise: Print in stars
-Using strings
-Programming exercise: Print thrice
-Programming exercise: Is it true
-Programming exercise: Login
-Programming exercise: Line by line
-Programming exercise: AV Club
-Programming exercise: First words
-Programming exercise: LastWords
-Programming exercise: Age of the oldest
-Programming exercise: Name of the oldest
-Programming exercise: Personal details
-Summary
-Quiz
-Part 4:
-Introduction to object-oriented programming
-Programming exercise: Your first account
-Programming exercise: Your first bank transfer
-Quiz
-Programming exercise: Dog attributes
-Programming exercise: Room
-Programming exercise: Whistle
-Programming exercise: Door
-Programming exercise: Product
-Programming exercise: Decreasing counter (3 parts)
-Programming exercise: Debt
-Quiz
-Programming exercise: Song
-Programming exercise: Film
-Programming exercise: Gauge
-Programming exercise: Agent
-Programming exercise: Multiplier
-Programming exercise: Statistics (4 parts)
-Programming exercise: Payment Card (6 parts)
-Objects in a list
-Programming exercise: Items
-Programming exercise: Personal information
-Programming exercise: Television programs
-Programming exercise: Books
-Files and reading data
-Programming exercise: Number of Strings
-Programming exercise: Cubes
-Programming exercise: Creating a New File
-Programming exercise: Printing a File
-Programming exercise: Printing a Specified File
-Programming exercise: Guest List From a File
-Programming exercise: Is it in the file?
-Programming exercise: Numbers From a File
-Programming exercise: Records From a File
-Programming exercise: Storing Records
-Programming exercise: Sport Statistics
-Summary
-Quiz
-Part 5:
-Learning object-oriented programming
-Programming exercise: One Minute
-Programming exercise: Book
-Programming exercise: Cube
-Programming exercise: Fitbyte
-Removing repetitive code (overloading methods and constructors)
-Quiz
-Programming exercise: Constructor Overload
-Quiz
-Programming exercise: Overloaded Counter (2 parts)
-Primitive and reference variables
-Quiz
-Quiz
-Objects and references
-Programming exercise: NullPointerException
-Programming exercise: Health station (3 parts)
-Programming exercise: Card payments (4 sections)
-Programming exercise: Biggest pet shop
-Programming exercise: Comparing apartments (3 parts)
-Programming exercise: Song
-Programming exercise: Identical twins
-Programming exercise: Books
-Programming exercise: Archive (2 parts)
-Programming exercise: Dating app (3 parts)
-Programming exercise: Money (3 parts)
-Conclusion
-Quiz
-Part 6:
-Objects on a list and a list as part of an object
-Programming exercise: Menu (3 parts)
-Programming exercise: Stack (2 parts)
-Programming exercise: MessagingService
-Programming exercise: Printing a Collection
-Programming exercise: Santa's Workshop (2 parts)
-Programming exercise: Longest in collection
-Programming exercise: Height Order (3 parts)
-Programming exercise: Cargo hold (7 parts)
-Separating the user interface from program logic
-Programming exercise: Simple Dictionary (4 parts)
-Programming exercise: To do list (2 parts)
-Programming exercise: Averages (3 parts)
-Programming exercise: Joke Manager (2 parts)
-Introduction to testing
-Programming exercise: Exercises (2 parts)
-Complex programs
-Quiz
-Part 7:
-Programming paradigms
-Programming exercise: Liquid containers (3 parts)
-Programming exercise: Liquid Containers 2.0 (2 parts)
-Quiz
-Algorithms
-Programming exercise: Sorting (5 parts)
-Programming exercise: Ready-made Sorting Algorithms
-Programming exercise: Searching
-Larger programming exercises
-Programming exercise: Grade statistics (4 parts)
-Programming exercise: Recipe search (4 parts)
-Programming exercise: Big year (3 parts)
-Summary and about exam
-Quiz
+
+----
+-------------------------------------------------------------------
+## Course Contents ##
+#### Part 1: #
+ 1. Getting started with programming
+      1. Quiz
+      2. Programming exercise: Sandbox
+      3. Quiz
+ 2. Printing
+      1. Programming exercise: Ada Lovelace
+      2. Programming exercise: Once Upon a Time
+      3. Programming exercise: Dinosaur
+ 3. Reading input
+      1. Programming exercise: Message
+      2. Programming exercise: Hi Ada Lovelace!
+      3. Programming exercise: Message Three Times
+      4. Programming exercise: Greeting
+      5. Programming exercise: Conversation
+      6. Programming exercise: Story
+ 4. Variables
+      1. Quiz
+      2. Programming exercise: Various Variables
+      3. Programming exercise: Integer Input
+      4. Programming exercise: Double Input
+      5. Programming exercise: Boolean Input
+      6. Programming exercise: Different Types of Input
+ 5. Calculating with numbers
+      1. Programming exercise: Seconds in a day
+      2. Quiz
+      3. Quiz
+      4. Programming exercise: Sum of two numbers
+      5. Programming exercise: Sum of three numbers
+      6. Programming exercise: Addition formula
+      7. Programming exercise: Multiplication formula
+      8. Programming exercise: Average of two numbers
+      9. Programming exercise: Average of three numbers
+      10. Quiz
+      11. Programming exercise: Simple calculator
+      12. Quiz
+ 6. Conditional statements and conditional operation
+      1. Programming exercise: Speeding Ticket
+      2. Programming exercise: Check Your Indentation
+      3. Programming exercise: Orwell
+      4. Programming exercise: Ancient
+      5. Programming exercise: Positivity
+      6. Programming exercise: Adulthood
+      7. Programming exercise: Larger Than or Equal To
+      8. Programming exercise: Grades and Points
+      9. Programming exercise: Odd or even
+      10. Programming exercise: Password
+      11. Programming exercise: Same
+      12. Programming exercise: Checking the age
+      13. Programming exercise: Leap year
+      14. Programming exercise: Gift tax
+ 7. Programming in our society
+      1. Quiz
+ 
+#### Part 2:
+ 1. Recurring problems and patterns to solve them
+      1. Quiz
+      2. Programming exercise: Squared
+      3. Programming exercise: Square root of sum
+      4. Quiz
+      5. Programming exercise: Absolute Value
+      6. Programming exercise: Comparing Numbers
+ 2. Repeating functionality
+      1. Programming exercise: Carry on?
+      2. Programming exercise: Are we there yet?
+      3. Quiz
+      4. Programming exercise: Only positives
+      5. Programming exercise: Number of Numbers
+      6. Programming exercise: Number of negative numbers
+      7. Programming exercise: Sum of Numbers
+      8. Programming exercise: Number and sum of numbers
+      9. Programming exercise: Average of numbers
+      10. Programming exercise: Average of positive numbers
+ 3. More loops
+      1. Quiz
+      2. Programming exercise: Counting
+      3. Programming exercise: Counting to hundred
+      4. Programming exercise: From where to where? (2 parts)
+      5. Programming exercise: Sum of a sequence
+      6. Programming exercise: Sum of a sequence - the sequel
+      7. Programming exercise: Factorial
+      8. Programming exercise: Repeating, breaking and remembering (5 parts)
+ 4. Methods and dividing the program into smaller parts
+      1. Programming exercise: In a hole in the ground
+      2. Programming exercise: Reprint
+      3. Quiz
+      4. Programming exercise: From one to parameter
+      5. Programming exercise: From parameter to one
+      6. Programming exercise: Division
+      7. Programming exercise: Divisible by three
+      8. Quiz
+      9. Programming exercise: Number uno
+      10. Programming exercise: Word
+      11. Quiz
+      12. Quiz
+      13. Programming exercise: Summation
+      14. Programming exercise: Smallest
+      15. Programming exercise: Greatest
+      16. Programming exercise: Averaging
+      17. Programming exercise: Star sign (4 parts)
+      18. Programming exercise: Advanced astrology (3 parts)
+ 5. End questionnaire
+       1. Quiz
+ 
+#### Part 3:
+ 1. Discovering errors
+      1. Quiz
+      2. Quiz
+ 2. Lists
+      1. Programming exercise: Third element
+      2. Programming exercise: Second plus third
+      3. Programming exercise: IndexOutOfBoundsException
+      4. Quiz
+      5. Programming exercise: List size
+      6. Programming exercise: Last in list
+      7. Programming exercise: First and last
+      8. Programming exercise: Remember these numbers
+      9. Programming exercise: Only these numbers
+      10. Programming exercise: Greatest in list
+      11. Programming exercise: Index of
+      12. Programming exercise: Index of smallest
+      13. Programming exercise: Sum of a list
+      14. Programming exercise: Average of a list
+      15. Quiz
+      16. Quiz
+      17. Programming exercise: On the list?
+      18. Programming exercise: Print in range
+      19. Programming exercise: Sum
+      20. Programming exercise: Remove last
+ 3. Arrays
+      1. Quiz
+      2. Programming exercise: Swap
+      3. Programming exercise: Index was not found
+      4. Programming exercise: Sum of array
+      5. Programming exercise: Print neatly
+      6. Programming exercise: Print in stars
+ 4. Using strings
+      1. Programming exercise: Print thrice
+      2. Programming exercise: Is it true
+      3. Programming exercise: Login
+      4. Programming exercise: Line by line
+      5. Programming exercise: AV Club
+      6. Programming exercise: First words
+      7. Programming exercise: LastWords
+      8. Programming exercise: Age of the oldest
+      9. Programming exercise: Name of the oldest
+      10. Programming exercise: Personal details
+ 5. Summary
+      1. Quiz
+ 
+#### Part 4:
+ 1. Introduction to object-oriented programming
+      1. Programming exercise: Your first account
+      2. Programming exercise: Your first bank transfer
+      3. Quiz
+      4. Programming exercise: Dog attributes
+      5. Programming exercise: Room
+      6. Programming exercise: Whistle
+      7. Programming exercise: Door
+      8. Programming exercise: Product
+      9. Programming exercise: Decreasing counter (3 parts)
+      10. Programming exercise: Debt
+      11. Quiz
+      12. Programming exercise: Song
+      13. Programming exercise: Film
+      14. Programming exercise: Gauge
+      15. Programming exercise: Agent
+      16. Programming exercise: Multiplier
+      17. Programming exercise: Statistics (4 parts)
+      18. Programming exercise: Payment Card (6 parts)
+ 2. Objects in a list
+      1. Programming exercise: Items
+      2. Programming exercise: Personal information
+      3. Programming exercise: Television programs
+      4. Programming exercise: Books
+ 3. Files and reading data
+      1. Programming exercise: Number of Strings
+      2. Programming exercise: Cubes
+      3. Programming exercise: Creating a New File
+      4. Programming exercise: Printing a File
+      5. Programming exercise: Printing a Specified File
+      6. Programming exercise: Guest List From a File
+      7. Programming exercise: Is it in the file?
+      8. Programming exercise: Numbers From a File
+      9. Programming exercise: Records From a File
+      10. Programming exercise: Storing Records
+      11. Programming exercise: Sport Statistics
+ 4. Summary 
+      1. Quiz
+ 
+#### Part 5:
+ 1. Learning object-oriented programming
+      1. Programming exercise: One Minute
+      2. Programming exercise: Book
+      3. Programming exercise: Cube
+      4. Programming exercise: Fitbyte
+ 2. Removing repetitive code (overloading methods and constructors)
+      1. Quiz
+      2. Programming exercise: Constructor Overload
+      3. Quiz
+      4. Programming exercise: Overloaded Counter (2 parts)
+ 3. Primitive and reference variables
+      1. Quiz
+      2. Quiz
+ 4. Objects and references
+      1. Programming exercise: NullPointerException
+      2. Programming exercise: Health station (3 parts)
+      3. Programming exercise: Card payments (4 sections)
+      4. Programming exercise: Biggest pet shop
+      5. Programming exercise: Comparing apartments (3 parts)
+      6. Programming exercise: Song
+      7. Programming exercise: Identical twins
+      8. Programming exercise: Books
+      9. Programming exercise: Archive (2 parts)
+      10. Programming exercise: Dating app (3 parts)
+      11. Programming exercise: Money (3 parts)
+ 5. Conclusion
+      1. Quiz
+      
+#### Part 6:
+ 1. Objects on a list and a list as part of an object
+      1. Programming exercise: Menu (3 parts)
+      2. Programming exercise: Stack (2 parts)
+      3. Programming exercise: MessagingService
+      4. Programming exercise: Printing a Collection
+      5. Programming exercise: Santa's Workshop (2 parts)
+      6. Programming exercise: Longest in collection
+      7. Programming exercise: Height Order (3 parts)
+      8. Programming exercise: Cargo hold (7 parts)
+ 2. Separating the user interface from program logic
+      1. Programming exercise: Simple Dictionary (4 parts)
+      2. Programming exercise: To do list (2 parts)
+      3. Programming exercise: Averages (3 parts)
+      4. Programming exercise: Joke Manager (2 parts)
+ 3. Introduction to testing
+      1. Programming exercise: Exercises (2 parts)
+ 4. Complex programs
+      1. Quiz
+      
+#### Part 7:
+ 1. Programming paradigms
+      1. Programming exercise: Liquid containers (3 parts)
+      2. Programming exercise: Liquid Containers 2.0 (2 parts)
+      3. Quiz
+ 2. Algorithms
+     1. Programming exercise: Sorting (5 parts)
+     2. Programming exercise: Ready-made Sorting Algorithms
+     3. Programming exercise: Searching
+ 3. Larger programming exercises
+     1. Programming exercise: Grade statistics (4 parts)
+     2. Programming exercise: Recipe search (4 parts)
+     3. Programming exercise: Big year (3 parts)
+ 4. Summary and about exam
+     1. Quiz
